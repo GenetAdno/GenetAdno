@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GenetAdno
+- 👋 Hi, I’m GenetAdno
 - 👀 I’m interested in devloping website
 - 🌱 I’m currently learning Devops Engineer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on technology campaniy
 - 📫 How to reach me ...
 
 <!---
